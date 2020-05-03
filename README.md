@@ -6,24 +6,29 @@
 
 https://reyniergt.github.io/data-science-portfolio/
 
-# My Blog
+# My Data Career
 
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
 
-## What To Do Next?
+## Goals
 
-Great!  You have setup your repo.  Now its time to start writing content.  Some helpful links:
+Improving my data engineer and science skills.
 
-- [Writing Blogs With Jupyter](https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter)
+### Tasks
 
-- [Writing Blogs With Markdown](https://github.com/fastai/fastpages#writing-blog-posts-with-markdown)
+- Complete a machine learning project every month
+	- **May**: Titanic: Machine Learning from Disaster from [kaggle.com](https://www.kaggle.com/c/titanic)
 
-- [Writing Blog Posts With Word](https://github.com/fastai/fastpages#writing-blog-posts-with-microsoft-word)
+- Complete two machine learning courses by 2020
+	- Machine Learning for Trading: [completion certificate](https://coursera.org/share/678c8dd24cb119a3f1cfae628fea8c91)
 
-- [(Optional) Preview Your Blog Locally](_fastpages_docs/DEVELOPMENT.md)
+- Learn or improve a new data technology every month
+	- **May**: Airflow
+	- **Jun**: Cassandra
+- Participate in a presale for Globant by 2020
+- 
 
-Note: you may want to remove example blog posts from the `_posts`,  `_notebooks` or `_word` folders (but leave them empty, don't delete these folders) if you don't want these blog posts to appear on your site.
 
-Please use the [nbdev & blogging channel](https://forums.fast.ai/c/fastai-users/nbdev/48) in the fastai forums for any questions or feature requests.
+
