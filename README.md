@@ -20,13 +20,18 @@ Improving my data engineer and science skills.
 
 - Complete a machine learning project every month
 	- **May**: Titanic: Machine Learning from Disaster from [kaggle.com](https://www.kaggle.com/c/titanic)
+	- **June**: Digit Recognition from [keggle.com](https://www.kaggle.com/c/digit-recognizer)
+	- **Jul**: 
+		- Start using TensorFlow for model training/evaluation
+		- ML automation (TFX)
+		- Model versioning (model config and training data)
 
 - Complete two machine learning courses by 2020
 	- Machine Learning for Trading: [completion certificate](https://coursera.org/share/678c8dd24cb119a3f1cfae628fea8c91)
 
 - Learn or improve a new data technology every month
-	- **May**: Airflow
-	- **Jun**: Cassandra
+	- **June**: Airflow
+	- **Cassandra**: Cassandra
 - Participate in a presale for Globant by 2020
 - 
 
